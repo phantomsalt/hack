@@ -1,0 +1,20 @@
+//Elementary
+x - Not
+o - And
+o - Or
+o - Xor
+o - Mux
+o - DMux
+
+//16-Bit variants
+o - Not16
+o - And16
+o - Or16
+o - Mux16
+
+//Multi-way variants
+o - Or8Way
+o - Mux4Way16
+o - Mux8Way16
+o - DMux4Way
+o - DMux8Way
