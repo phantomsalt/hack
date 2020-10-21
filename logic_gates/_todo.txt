@@ -2,7 +2,7 @@
 x - Not
 x - And
 x - Or
-o - Xor
+x - Xor
 o - Mux
 o - DMux
 
