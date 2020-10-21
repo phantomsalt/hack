@@ -1,7 +1,7 @@
 //Elementary
 x - Not
-o - And
-o - Or
+x - And
+x - Or
 o - Xor
 o - Mux
 o - DMux
