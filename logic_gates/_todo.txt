@@ -7,10 +7,10 @@ x - Mux
 x - DMux
 
 //16-Bit variants
-o - Not16
-o - And16
-o - Or16
-o - Mux16
+x - Not16
+x - And16
+x - Or16
+x - Mux16
 
 //Multi-way variants
 o - Or8Way
