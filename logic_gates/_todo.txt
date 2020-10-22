@@ -4,7 +4,7 @@ x - And
 x - Or
 x - Xor
 x - Mux
-o - DMux
+x - DMux
 
 //16-Bit variants
 o - Not16
