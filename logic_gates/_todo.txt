@@ -3,7 +3,7 @@ x - Not
 x - And
 x - Or
 x - Xor
-o - Mux
+x - Mux
 o - DMux
 
 //16-Bit variants
