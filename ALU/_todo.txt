@@ -1,6 +1,6 @@
 x - Half-Adder
 x - Full-Adder
-o - Add16
+x - Add16
 o - Inc16
 o - ALU-nostat
 o - ALU
