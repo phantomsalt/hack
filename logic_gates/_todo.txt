@@ -13,8 +13,8 @@ x - Or16
 x - Mux16
 
 //Multi-way variants
-o - Or8Way
-o - Mux4Way16
-o - Mux8Way16
-o - DMux4Way
-o - DMux8Way
+x - Or8Way
+x - Mux4Way16
+x - Mux8Way16
+x - DMux4Way
+x - DMux8Way
