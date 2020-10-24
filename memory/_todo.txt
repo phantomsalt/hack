@@ -1,0 +1,8 @@
+x - 1-bit register
+o - 16-bit register
+o - RAM8
+o - RAM64
+o - RAM512
+o - RAM4K
+o - RAM16K
+o - PC
