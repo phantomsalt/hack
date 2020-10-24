@@ -5,4 +5,4 @@ x - RAM64
 x - RAM512
 x - RAM4K
 x - RAM16K
-o - PC
+x - Program Controller (PC)

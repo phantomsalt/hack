@@ -16,5 +16,20 @@ CHIP PC {
     OUT out[16];
 
     PARTS:
-    // Put your code here:
+    
+    //otherwise
+    Or8Way(in[0..4]=false, in[5]=reset, in[6]=load, in[7]=inc, out=loadSig);
+
+    //inc
+    Mux16(a=false, b=incOut, sel=inc, out=inc16);
+
+    //load
+    Mux16(a=inc16, b=in, sel=load, out=load16);
+
+    //reset
+    Mux16(a=load16, b=false, sel=reset, out=reset16);
+
+    //Output
+    Register(in=reset16, load=loadSig, out=out, out=regOut);
+    Inc16(in=regOut, out=incOut);
 }
